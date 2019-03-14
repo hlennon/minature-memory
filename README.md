@@ -1,4 +1,11 @@
 # minature-memory
-Sharing ideas and resources in research
+Aim 1: Sharing ideas and resources in research.  
+Aim 2: Notes that I re-use  
 
-Sharing useful information from our research group (obesity, diabetes and cancer themes) at The University of Manchester.
+
+
+Includes:
+1. The ICD-O-3 codes for the obesity-related cancers have been defined following IARC (2016): 
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMsr1606602">.
+
+2. The ICD-O-2 codes
